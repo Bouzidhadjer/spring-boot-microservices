@@ -1,0 +1,10 @@
+com\hadjerbouzid\productservice\model\Product.class
+com\hadjerbouzid\productservice\dto\ProductResponse.class
+com\hadjerbouzid\productservice\dto\ProductRequest.class
+com\hadjerbouzid\productservice\ProductServiceApplication.class
+com\hadjerbouzid\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\hadjerbouzid\productservice\service\ProductService.class
+com\hadjerbouzid\productservice\controller\ProductController.class
+com\hadjerbouzid\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\hadjerbouzid\productservice\model\Product$ProductBuilder.class
+com\hadjerbouzid\productservice\repository\ProductRepository.class

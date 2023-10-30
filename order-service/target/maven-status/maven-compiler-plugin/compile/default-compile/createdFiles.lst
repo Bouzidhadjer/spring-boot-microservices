@@ -1,0 +1,8 @@
+com\hadjerbouzid\orderservice\dto\OrderLineItemsDto.class
+com\hadjerbouzid\orderservice\model\OrderLineItems.class
+com\hadjerbouzid\orderservice\OrderServiceApplication.class
+com\hadjerbouzid\orderservice\model\Order.class
+com\hadjerbouzid\orderservice\controller\OrderController.class
+com\hadjerbouzid\orderservice\service\OrderService.class
+com\hadjerbouzid\orderservice\repository\OrderRepository.class
+com\hadjerbouzid\orderservice\dto\OrderRequest.class
