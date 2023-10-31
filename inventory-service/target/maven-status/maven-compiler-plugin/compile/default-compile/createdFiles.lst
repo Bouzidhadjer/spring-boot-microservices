@@ -1,5 +1,7 @@
 com\hadjerbouzid\inventoryservice\repository\InventoryRepository.class
 com\hadjerbouzid\inventoryservice\controller\InventoryController.class
+com\hadjerbouzid\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\hadjerbouzid\inventoryservice\dto\InventoryResponse.class
 com\hadjerbouzid\inventoryservice\model\Inventory.class
 com\hadjerbouzid\inventoryservice\InventoryServiceApplication.class
 com\hadjerbouzid\inventoryservice\service\InventoryService.class

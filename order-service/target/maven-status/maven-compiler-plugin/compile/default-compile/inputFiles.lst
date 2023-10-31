@@ -1,4 +1,6 @@
 C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\OrderServiceApplication.java
+C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\config\WebClientConfig.java
+C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\dto\InventoryResponse.java
 C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\model\Order.java
 C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\model\OrderLineItems.java
 C:\dev\microservices-new\order-service\src\main\java\com\hadjerbouzid\orderservice\dto\OrderRequest.java

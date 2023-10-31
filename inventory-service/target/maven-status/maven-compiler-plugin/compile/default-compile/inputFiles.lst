@@ -2,4 +2,5 @@ C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\invent
 C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\inventoryservice\InventoryServiceApplication.java
 C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\inventoryservice\model\Inventory.java
 C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\inventoryservice\service\InventoryService.java
+C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\inventoryservice\dto\InventoryResponse.java
 C:\dev\microservices-new\inventory-service\src\main\java\com\hadjerbouzid\inventoryservice\repository\InventoryRepository.java
